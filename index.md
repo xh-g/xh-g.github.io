@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at the College of Control Science and Engineering at ZheJiang University, where I am foutunate to work with [Prof. Shibo He](https://person.zju.edu.cn/shibohe) in the [Group of Networked Sensing and Control, NeSC](http://nesc.zju.edu.cn/#/) lab.My current research focuses on Reinforcement Learning and Sequential Decision-Making.
 
-## Research Interests
+Prior to my Ph.D. career, I received my Bachelor's degree in Automation from ZheJiang University, where I had the privilege of conducting research under the guidance of [Prof. Xiuzhen Guo](https://zjugxz.github.io/). 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2024]** I joined NESC lab!
+- **[June. 2024]**  I received my Bachelor's degree in Automation from ZheJiang University!
+
 
 {% include_relative _includes/publications.md %}
 
